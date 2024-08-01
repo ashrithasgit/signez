@@ -1,4 +1,4 @@
-# SignEZ : an Indian Sign Language translator by Mukund and Ashritha
+# SignEZ : an Indian Sign Language translator by Ashritha and Mukund
 ========================================
 
 This project is our submission for the Product Design and Development course in 4th Semester.
@@ -14,5 +14,5 @@ The following project consists of:
 - the entire process is automated on Jenkins
 - as AWS instance is created deploying the same
 - the website is tested by selenium testing 
-
+- a codeql file in .yml is written for the sast secutiy to ensure code quality and analysis of the code
 
